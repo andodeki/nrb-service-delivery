@@ -11,6 +11,8 @@
   "dependencies": {
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
+    "solid-native": "0.1.2",
+    "@react-native-async-storage/async-storage": "~1.15.0",
     "react": "18.0.0",
     "react-native": "0.69.5",
     "expo-updates": "~0.14.5"
